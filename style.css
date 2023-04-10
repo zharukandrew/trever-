@@ -160,4 +160,30 @@ li {
   width: 482px;
   text-align: center;
   padding-top: 24px;
+}
+.traver__wrapper {
+  margin-top: 64px;
+  display: flex;
+  gap: 30px;
+}
+.traver__block {
+  width: 370px;
+  height: 278px;
+  border: 2px solid #666666;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.traver__block a {
+  padding-left: 40px;
+}
+.traver__block h3 {
+  padding-left: 40px;
+  color: #222222;
+}
+.traver__block p {
+  padding-left: 40px;
+  width: 350px;
+  line-height: 26px;
+  color: #666666;
 }/*# sourceMappingURL=style.css.map */
