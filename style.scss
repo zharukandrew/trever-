@@ -236,3 +236,9 @@ li{
             padding-top: 16px;
         }
     }
+    .country{
+        &__item{
+            display:flex;
+            flex-direction: column;
+    }
+}
