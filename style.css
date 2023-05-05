@@ -229,6 +229,7 @@ li {
 .exclusive__list {
   display: flex;
   gap: 29px;
+  padding-top: 64px;
 }
 .exclusive__block {
   display: flex;
@@ -237,10 +238,31 @@ li {
   margin-bottom: 15px;
   padding: 0px 10px;
 }
+.exclusive__block h4 {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 26px;
+  color: #222222;
+}
+.exclusive__block span {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #666666;
+}
 .exclusive__country {
   display: flex;
   justify-content: space-between;
   padding: 0px 10px;
+}
+.exclusive__region {
+  color: #666666;
+}
+.exclusive__price-text {
+  color: #999999;
+  text-decoration: line-through;
 }
 .exclusive__price-text {
   margin-right: 17px;
@@ -252,8 +274,9 @@ li {
   border-radius: 5px;
   color: #FA7436;
 }
-
-.country__item {
-  display: flex;
-  flex-direction: column;
+.exclusive__arrows {
+  padding-top: 48px;
+}
+.exclusive__arrows-btn-2 {
+  padding: 0 33px;
 }/*# sourceMappingURL=style.css.map */
