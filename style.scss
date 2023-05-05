@@ -279,14 +279,17 @@ li{
         }
 
     }
-    .vacation ol{
+    
+       
+    
+    .vacation{
+       margin-top: 82px;
+      &__start{
         display: flex;
         display: flex;
         flex-direction: column;
         align-items: center;
-    }
-    .vacation{
-       margin-top: 82px;
+       }
         &__title{
             font-weight: 700;
             font-size: 48px;
@@ -304,5 +307,8 @@ li{
              color: #666666;
              width: 521px;
              
+        }
+        &__capital {
+            display: flex;
         }
     }

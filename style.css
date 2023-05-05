@@ -281,15 +281,14 @@ li {
   padding: 0 33px;
 }
 
-.vacation ol {
+.vacation {
+  margin-top: 82px;
+}
+.vacation__start {
   display: flex;
   display: flex;
   flex-direction: column;
   align-items: center;
-}
-
-.vacation {
-  margin-top: 82px;
 }
 .vacation__title {
   font-weight: 700;
@@ -307,4 +306,7 @@ li {
   text-align: center;
   color: #666666;
   width: 521px;
+}
+.vacation__capital {
+  display: flex;
 }/*# sourceMappingURL=style.css.map */
