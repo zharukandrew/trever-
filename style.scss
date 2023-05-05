@@ -284,6 +284,7 @@ li{
     
     .vacation{
        margin-top: 82px;
+    
       &__start{
         display: flex;
         display: flex;
@@ -311,4 +312,37 @@ li{
         &__capital {
             display: flex;
         }
+    }
+    .tour{
+        padding-top: 69px;
+        &__wrapper {
+            display: flex;
+            margin-left: 100px;
+            margin-right: 100px;
+            
+         }
+        &__block{
+            display: flex;
+            flex-direction: column;
+            background: #FEFCFB;
+            border: 1px solid rgba(102, 102, 102, 0.08);
+            border-radius: 2px;
+        }
+        &__city {
+            display: flex;
+            margin-left: 90px;
+            margin-top: 24px;
+            gap: 150px;
+        }
+        &__img {
+            width: 450px;
+            height: 327px;
+        }
+        &__item{
+            display: flex;
+            margin-left: 80px;
+            margin-top: 24px;
+            gap: 150px;
+        }
+        
     }

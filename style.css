@@ -309,4 +309,36 @@ li {
 }
 .vacation__capital {
   display: flex;
+}
+
+.tour {
+  padding-top: 69px;
+}
+.tour__wrapper {
+  display: flex;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+.tour__block {
+  display: flex;
+  flex-direction: column;
+  background: #FEFCFB;
+  border: 1px solid rgba(102, 102, 102, 0.08);
+  border-radius: 2px;
+}
+.tour__city {
+  display: flex;
+  margin-left: 90px;
+  margin-top: 24px;
+  gap: 150px;
+}
+.tour__img {
+  width: 450px;
+  height: 327px;
+}
+.tour__item {
+  display: flex;
+  margin-left: 80px;
+  margin-top: 24px;
+  gap: 150px;
 }/*# sourceMappingURL=style.css.map */
