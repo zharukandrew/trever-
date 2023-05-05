@@ -279,4 +279,32 @@ li {
 }
 .exclusive__arrows-btn-2 {
   padding: 0 33px;
+}
+
+.vacation ol {
+  display: flex;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.vacation {
+  margin-top: 82px;
+}
+.vacation__title {
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 54px;
+  text-align: center;
+  color: #222222;
+}
+.vacation__text {
+  padding-top: 24px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 32px;
+  text-align: center;
+  color: #666666;
+  width: 521px;
 }/*# sourceMappingURL=style.css.map */
