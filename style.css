@@ -310,6 +310,11 @@ li {
 .vacation__capital {
   display: flex;
 }
+.vacation__btn {
+  display: flex;
+  margin-left: 1340px;
+  gap: 24px;
+}
 
 .tour {
   padding-top: 69px;
