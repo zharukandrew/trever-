@@ -328,8 +328,7 @@ li{
             display: flex;
             flex-direction: column;
             background: #FEFCFB;
-            border: 1px solid rgba(102, 102, 102, 0.08);
-            border-radius: 2px;
+            
         }
         &__city {
             display: flex;
@@ -338,14 +337,14 @@ li{
             gap: 150px;
         }
         &__img {
+            height: 331px;
             width: 461px;
-            height: 327px;
         }
         &__item{
             display: flex;
-            margin-left: 60px;
+            margin-left: 70px;
             margin-top: 24px;
             gap: 150px;
         }
-        
+       
     }

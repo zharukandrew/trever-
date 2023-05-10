@@ -327,8 +327,6 @@ li {
   display: flex;
   flex-direction: column;
   background: #FEFCFB;
-  border: 1px solid rgba(102, 102, 102, 0.08);
-  border-radius: 2px;
 }
 .tour__city {
   display: flex;
@@ -337,12 +335,12 @@ li {
   gap: 150px;
 }
 .tour__img {
+  height: 331px;
   width: 461px;
-  height: 327px;
 }
 .tour__item {
   display: flex;
-  margin-left: 60px;
+  margin-left: 70px;
   margin-top: 24px;
   gap: 150px;
 }/*# sourceMappingURL=style.css.map */
