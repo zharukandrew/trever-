@@ -322,9 +322,7 @@ li{
         padding-top: 69px;
         &__wrapper {
             display: flex;
-            margin-left: 100px;
-            margin-right: 100px;
-            
+            gap:30px
          }
         &__block{
             display: flex;
@@ -335,17 +333,17 @@ li{
         }
         &__city {
             display: flex;
-            margin-left: 90px;
+            margin-left: 80px;
             margin-top: 24px;
             gap: 150px;
         }
         &__img {
-            width: 450px;
+            width: 461px;
             height: 327px;
         }
         &__item{
             display: flex;
-            margin-left: 80px;
+            margin-left: 60px;
             margin-top: 24px;
             gap: 150px;
         }
