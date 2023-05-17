@@ -358,4 +358,28 @@ li {
   margin-left: 70px;
   margin-top: 24px;
   gap: 150px;
+}
+
+.smiles {
+  margin-top: 120px;
+}
+.smiles__title {
+  width: 388px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 54px;
+  color: #222222;
+}
+.smiles__page {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 32px;
+  color: #666666;
+  width: 394px;
+}
+.smiles__button {
+  display: flex;
+  gap: 32px;
 }/*# sourceMappingURL=style.css.map */
