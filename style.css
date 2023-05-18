@@ -360,9 +360,12 @@ li {
   gap: 150px;
 }
 
-.smiles {
+.people {
   margin-top: 120px;
+  display: flex;
+  gap: 157px;
 }
+
 .smiles__title {
   width: 388px;
   font-style: normal;
